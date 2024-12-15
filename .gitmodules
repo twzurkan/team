@@ -1,0 +1,6 @@
+[submodule "teamMembers"]
+	path = teamMembers
+	url = https://github.com/twzurkan/teamMembers.git
+[submodule "teamBackend"]
+	path = teamBackend
+	url = https://github.com/twzurkan/teamBackend.git
